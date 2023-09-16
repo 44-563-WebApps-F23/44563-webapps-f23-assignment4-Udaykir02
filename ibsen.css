@@ -56,4 +56,23 @@
 }
 
 
+.Stockmann:hover {
 
+    box-shadow: 0 0 9px rgba(29, 144, 186, 0.5); 
+  
+    border: 2px solid #721053; 
+  }
+
+.Peter:hover {
+
+   box-shadow: 0 0 9px rgba(127, 10, 237, 0.5); 
+  
+   border: 2px solid #00ff00; 
+ }
+
+ .Hovstad:hover {
+
+    box-shadow: 0 0 9px rgba(145, 222, 3, 0.5); 
+  
+    border: 2px solid #1d0dcd; 
+  }
