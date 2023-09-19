@@ -8,6 +8,10 @@
     color: black;
 }
 
+.name{
+    color: #000;
+}
+
 .direction:hover{
     background-color: aqua;
     color: blue;
